@@ -28,5 +28,5 @@ def solution(n):
 문제 사용 형식은 아래의 조건식과 같다.      
 ```python
 x = 0 if condition else 1  
-```python
+```
 어떠한 수의 제곱근을 구한 값과 그 제곱근의 int값이 같은지 비교하는 방식을 사용하였음.  
