@@ -11,6 +11,7 @@ https://programmers.co.kr/learn/courses/30/lessons/12921
 <제한사항>      
 n은 2이상 1000000이하의 자연수입니다.       
 <입출력 예>     
+
 |n|return|
 |10|4|
 |5|3|
