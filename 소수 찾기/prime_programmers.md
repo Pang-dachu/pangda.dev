@@ -10,7 +10,7 @@ https://programmers.co.kr/learn/courses/30/lessons/12921
 (1은 소수가 아닙니다.)      
 <제한사항>      
 n은 2이상 1000000이하의 자연수입니다.       
-<입출력 예>     
+<입출력 예>
 
 |n|return|
 |10|4|
