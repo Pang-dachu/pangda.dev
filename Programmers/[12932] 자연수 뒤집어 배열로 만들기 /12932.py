@@ -1,0 +1,1 @@
+solution = lambda x : list(map(int, str(x)[::-1]))
